@@ -1,3 +1,7 @@
+[submodule "modules/wb_fec"]
+	path = modules/wb_fec
+	url = git@github.com:baijiaoni/wb_fec.git
+
 [submodule "ip_cores/fpga-config-space"]
 	path = ip_cores/fpga-config-space
 	url = git://ohwr.org/hdl-core-lib/fpga-config-space.git
@@ -16,9 +20,7 @@
 [submodule "ip_cores/hdl-make"]
 	path = ip_cores/hdl-make
 	url = git://ohwr.org/misc/hdl-make.git
-[submodule "modules/wb_fec"]
-	path = modules/wb_fec
-	url = https://github.com/bradomyn/wb_fec.git
+
 [submodule "modules/gray_counter"]
 	path = modules/gray_counter
 	url = https://github.com/bradomyn/gray_counter.git
