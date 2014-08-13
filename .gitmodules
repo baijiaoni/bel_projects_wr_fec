@@ -2,25 +2,3 @@
 	path = modules/wb_fec
 	url = git@github.com:baijiaoni/wb_fec.git
 
-[submodule "ip_cores/fpga-config-space"]
-	path = ip_cores/fpga-config-space
-	url = git://ohwr.org/hdl-core-lib/fpga-config-space.git
-[submodule "ip_cores/etherbone-core"]
-	path = ip_cores/etherbone-core
-	url = git://ohwr.org/hdl-core-lib/etherbone-core.git
-[submodule "ip_cores/general-cores"]
-	path = ip_cores/general-cores
-	url = git://ohwr.org/hdl-core-lib/general-cores.git
-[submodule "ip_cores/wr-cores"]
-	path = ip_cores/wr-cores
-	url = git://ohwr.org/hdl-core-lib/wr-cores.git
-[submodule "ip_cores/wrpc-sw"]
-	path = ip_cores/wrpc-sw
-	url = git://ohwr.org/hdl-core-lib/wr-cores/wrpc-sw.git
-[submodule "ip_cores/hdl-make"]
-	path = ip_cores/hdl-make
-	url = git://ohwr.org/misc/hdl-make.git
-
-[submodule "modules/gray_counter"]
-	path = modules/gray_counter
-	url = https://github.com/bradomyn/gray_counter.git
